@@ -1,0 +1,15 @@
+.section {
+    display: flex;
+    justify-content: 'space-between'
+    
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* align-items: center; */
+    padding: 4rem;
+    min-height: 100vh;
+  }
+  
